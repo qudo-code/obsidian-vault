@@ -17,7 +17,7 @@ If you want to open apps, you probably want a desktop or window manager. I like 
 6. Optional install Nvidia drivers `sudo pacman -S nvidia nvidia-utils`
 7. Launch with `startx` and go through the first time setup. Make Alt your mod key imo.
 8. Locate `~/.config/i3/config`  and edit the following. These are the important edits or you alternatively copy/paste my whole config linked below. 
-	1. Change `$mod + d` command to be similar to the one in my i3wm config so it uses `rofi
+	1. Change `$mod + d` command to be similar to the one in my i3wm config so it uses `rofi.
 	2. Change `$mod + Enter` to open xterm with better theme. 
 	3. Use font we installed by adding/uncommenting `font pango:DejaVu Sans Mono 12`
 #### [[My i3wm Config]]
@@ -78,6 +78,7 @@ You can install Brave using `yay -S brave`, but when I did, it worked, but it to
 - `sudo pacman -S xclip`
 - `yay -S notion-app`
 - `yay -S spotify`
+- `yay -S visual-studio-code-bin`
 - Obsidian (download `.AppImage` from their website)
 
 ## Tips n Snippets
