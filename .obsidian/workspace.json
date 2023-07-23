@@ -8,12 +8,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "8ca2204c76a63e2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/Computer/Arch Linux/Install Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b2bc92e25cae9d14",
+        "type": "tabs",
+        "children": [
+          {
             "id": "f15d910da13183fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Computer/Arch Linux.md",
+                "file": "Private/Computer/Arch Linux/Configs/i3wm Config.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3fbf0ede1be9fa69",
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/Computer/Arch Linux.md",
+                "file": "Private/Computer/Arch Linux/Install Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Private/Computer/Arch Linux.md",
+                "file": "Private/Computer/Arch Linux/Install Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Computer/Arch Linux.md"
+                "file": "Private/Computer/Arch Linux/Install Guide.md"
               }
             }
           }
@@ -146,10 +165,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f15d910da13183fb",
+  "active": "8ca2204c76a63e2f",
   "lastOpenFiles": [
+    "Private/Computer/Arch Linux/Configs/i3wm Config.md",
+    "Private/Computer/Arch Linux/Install Guide.md",
+    "Private/Computer/Arch Linux/Configs",
+    "Private/Computer/Arch Linux",
+    "Untitled 1.md",
     "Untitled.canvas",
-    "Private/Computer/Arch Linux.md",
     "2023-07-23.md",
     "Private/Computer",
     "Untitled",
