@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Computer/Arch Linux/Install Guide.md",
+                "file": "Private/Guides/Computer/Arch Linux/Install Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Computer/Arch Linux/Configs/bashrc.md",
+                "file": "Private/Guides/Computer/Arch Linux/Manage Audio.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Computer/Generate SSH Keys.md",
+                "file": "Private/Guides/Computer/Generate SSH Keys.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Computer/Generate SSH Keys.md",
+                "file": "Private/Guides/Computer/Generate SSH Keys.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/Computer/Arch Linux/Configs/bashrc.md",
+                "file": "Private/Guides/Computer/Arch Linux/Manage Audio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Private/Computer/Arch Linux/Configs/bashrc.md",
+                "file": "Private/Guides/Computer/Arch Linux/Manage Audio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Computer/Arch Linux/Configs/bashrc.md"
+                "file": "Private/Guides/Computer/Arch Linux/Manage Audio.md"
               }
             }
           }
@@ -185,18 +185,21 @@
   },
   "active": "6de09da27f58751b",
   "lastOpenFiles": [
-    "Private/Computer/Arch Linux/Install Guide.md",
-    "Private/Computer/Arch Linux/Configs/bashrc.md",
-    "Private/Computer/Generate SSH Keys.md",
-    "Private/Computer/Copy File to Clipboard.md",
-    "Private/Computer/Run Background Apps.md",
-    "Private/Computer/Arch Linux/Configs/i3wm Config.md",
-    "Private/Computer/Arch Linux/Configs",
-    "Private/Computer/Arch Linux",
+    "Private/Guides/Computer/Arch Linux/Install Guide.md",
+    "Private/Guides/Computer/Arch Linux/Manage Audio.md",
+    "Private/Guides/Computer/Arch Linux/Window Manager.md",
+    "Private/Guides/Computer/Arch Linux/Configs/i3wm Config.md",
+    "Private/Guides/Computer/Arch Linux/Configs/bashrc.md",
+    "Private/Guides/Computer/Copy File to Clipboard.md",
+    "Private/Guides/Computer/Generate SSH Keys.md",
+    "Private/Guides/Computer/Run Background Apps.md",
+    "Private/Guides/Computer",
+    "Private/Guides/Computer/Arch Linux/Configs",
+    "Private/Guides/Computer/Arch Linux",
     "Untitled 1.md",
     "Untitled.canvas",
     "2023-07-23.md",
-    "Private/Computer",
+    "Private/Guides",
     "Untitled",
     "Private"
   ]
