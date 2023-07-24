@@ -18,7 +18,7 @@
 #         email: qudo+bot@gmail.com
 
 name: Push File
-on: push
+on: [push]
 jobs:
     copy-file:
       runs-on: ubuntu-latest
@@ -30,7 +30,7 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.GITHUB_TOKEN }}
         with:
-          source_file: '/PUblic/Guides/'
+          source_file: '/Public/Guides/'
           destination_repo: 'RUNBOOK'
           destination_folder: 'guides'
           user_email: 'qudo@matr.world'
