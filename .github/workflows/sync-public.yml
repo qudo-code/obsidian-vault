@@ -18,24 +18,21 @@
 #         email: qudo+bot@gmail.com
 
 name: Push File
-
 on: push
-
 jobs:
     copy-file:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout
+      runs-on: ubuntu-latest
+      steps:
+      - name: Checkout
         uses: actions/checkout@v2
-
-    - name: Pushes test file
+      - name: Pushes test file
         uses: dmnemec/copy_file_to_another_repo_action@main
         env:
-        API_TOKEN_GITHUB: ${{ secrets.GITHUB_TOKEN }}
+          API_TOKEN_GITHUB: ${{ secrets.GITHUB_TOKEN }}
         with:
-        source_file: '/PUblic/Guides/'
-        destination_repo: 'RUNBOOK'
-        destination_folder: 'guides'
-        user_email: 'qudo@matr.world'
-        user_name: 'qudo-code'
-        commit_message: 'sync obsidian vault'
+          source_file: '/PUblic/Guides/'
+          destination_repo: 'RUNBOOK'
+          destination_folder: 'guides'
+          user_email: 'qudo@matr.world'
+          user_name: 'qudo-code'
+          commit_message: 'sync obsidian vault'
