@@ -1,5 +1,5 @@
 name: Copy
-on: gollum
+on: [push]
 jobs:
   copy:
     runs-on: ubuntu-latest
