@@ -31,7 +31,7 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.GITHUB_TOKEN }}
         with:
           source_file: '/Public/Guides/'
-          destination_repo: 'RUNBOOK'
+          destination_repo: 'qudo-code/RUNBOOK'
           destination_folder: 'guides'
           user_email: 'qudo@matr.world'
           user_name: 'qudo-code'
