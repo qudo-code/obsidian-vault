@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6de09da27f58751b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/Computer/Arch Linux/Configs/bashrc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "608d79b86c7906de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/Computer/Generate SSH Keys.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6159086027b532fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/Computer/Generate SSH Keys.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/Computer/Arch Linux/Install Guide.md",
+                "file": "Private/Computer/Arch Linux/Configs/bashrc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Private/Computer/Arch Linux/Install Guide.md",
+                "file": "Private/Computer/Arch Linux/Configs/bashrc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Computer/Arch Linux/Install Guide.md"
+                "file": "Private/Computer/Arch Linux/Configs/bashrc.md"
               }
             }
           }
@@ -146,10 +183,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63888c428b27c2be",
+  "active": "6de09da27f58751b",
   "lastOpenFiles": [
-    "Private/Computer/Arch Linux/Configs/i3wm Config.md",
     "Private/Computer/Arch Linux/Install Guide.md",
+    "Private/Computer/Arch Linux/Configs/bashrc.md",
+    "Private/Computer/Generate SSH Keys.md",
+    "Private/Computer/Copy File to Clipboard.md",
+    "Private/Computer/Run Background Apps.md",
+    "Private/Computer/Arch Linux/Configs/i3wm Config.md",
     "Private/Computer/Arch Linux/Configs",
     "Private/Computer/Arch Linux",
     "Untitled 1.md",

@@ -82,11 +82,8 @@ You can install Brave using `yay -S brave`, but when I did, it worked, but it to
 - Obsidian (download `.AppImage` from their website)
 
 ## Tips n Snippets
-#### Generate SSH Keys
-`ssh-keygen -t rsa -b 4096 -C "you@you.com"
-
-#### Copy File Contents to Clipboard
-`cat thefile.txt | xclip -selection clipboard
+#### [[Generate SSH Keys]]
+#### [[Copy File to Clipboard]]
 
 #### Install `.AppImage`s
 **Install FUSE**
@@ -98,10 +95,6 @@ To install files of type .AppImage, you need to install `fuse2` if you don't hav
 3. Move executable to `/bin`
    `sudo mv /path/to/.AppImage /bin/appname
 4. Call it by name.
-
-#### Run Apps in Background
-Run apps in background so you don't need to keep the terminal open. 
-`appname & disown`
 
 
 

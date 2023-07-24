@@ -1,0 +1,1 @@
+`cat thefile.txt | xclip -selection clipboard
