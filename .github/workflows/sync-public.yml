@@ -28,7 +28,7 @@ jobs:
       - name: Pushes test file
         uses: dmnemec/copy_file_to_another_repo_action@main
         env:
-          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+          API_TOKEN_GITHUB: ${{ secrets.pat }}
         with:
           source_file: './Public/Guides/'
           destination_repo: 'qudo-code/RUNBOOK'
