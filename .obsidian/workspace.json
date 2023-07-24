@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Guides/Computer/Arch Linux/Install Guide.md",
+                "file": "Private/Guides/Computer/Arch Linux/Getting Started.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Guides/Computer/Arch Linux/Screenshots.md",
+                "file": "Private/Guides/Computer/Arch Linux/Window Manager.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 286.5
   },
   "right": {
     "id": "3fbf0ede1be9fa69",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/Guides/Computer/Arch Linux/Screenshots.md",
+                "file": "Private/Guides/Computer/Arch Linux/Window Manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Private/Guides/Computer/Arch Linux/Screenshots.md",
+                "file": "Private/Guides/Computer/Arch Linux/Window Manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Guides/Computer/Arch Linux/Screenshots.md"
+                "file": "Private/Guides/Computer/Arch Linux/Window Manager.md"
               }
             }
           }
@@ -185,15 +185,18 @@
   },
   "active": "6de09da27f58751b",
   "lastOpenFiles": [
-    "Private/Guides/Computer/Arch Linux/Install Guide.md",
-    "Private/Guides/Computer/Arch Linux/Screenshots.md",
-    "Private/Guides/Computer/Arch Linux/Manage Audio.md",
+    "Private/Guides/Computer/Arch Linux/Getting Started.md",
     "Private/Guides/Computer/Arch Linux/Window Manager.md",
-    "Private/Guides/Computer/Arch Linux/Configs/i3wm Config.md",
+    "Private/Guides/Computer/Arch Linux/Screenshots.md",
+    "Private/Guides/Computer/Arch Linux/Install AppImages.md",
+    "Private/Guides/Computer/Arch Linux/Install Apps.md",
     "Private/Guides/Computer/Arch Linux/Configs/bashrc.md",
-    "Private/Guides/Computer/Copy File to Clipboard.md",
-    "Private/Guides/Computer/Generate SSH Keys.md",
+    "Private/Guides/Computer/Arch Linux/Configs/i3wm Config.md",
     "Private/Guides/Computer/Run Background Apps.md",
+    "Private/Guides/Computer/Generate SSH Keys.md",
+    "Private/Guides/Computer/Copy File to Clipboard.md",
+    "Private/Guides/Computer/Arch Linux/Yay Package Manager.md",
+    "Private/Guides/Computer/Arch Linux/Manage Audio.md",
     "Private/Guides/Computer",
     "Private/Guides/Computer/Arch Linux/Configs",
     "Private/Guides/Computer/Arch Linux",

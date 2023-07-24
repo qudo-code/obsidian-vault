@@ -1,0 +1,16 @@
+name: Deploy Obsidian
+run-name: ${{ github.actor }} 🚀
+on: [push]
+jobs:
+    Sync-Public:
+    runs-on: ubuntu-latest
+    steps:
+        - name: Sync Public
+        uses: andstor/copycat-action@v3
+        with:
+            personal_token: ${{ secrets.PERSONAL_TOKEN }}
+            src_path: /.
+            dst_path: /.
+            dst_owner: qudo-code
+            dst_repo_name: RUNBOOK
+    
