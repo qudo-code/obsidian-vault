@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Teest.md",
+                "file": "Private/Research/Mint on Fly.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0e0c5d49d27c5ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Public/Guides/Computer/Run Background Apps.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 285.5
   },
   "right": {
     "id": "3fbf0ede1be9fa69",
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/Teest.md",
+                "file": "Public/Guides/Computer/Run Background Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Private/Teest.md",
+                "file": "Public/Guides/Computer/Run Background Apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/Teest.md"
+                "file": "Public/Guides/Computer/Run Background Apps.md"
               }
             }
           }
@@ -197,20 +209,23 @@
   },
   "active": "4702d18dfad976ed",
   "lastOpenFiles": [
+    "Transactions.md",
     "Public/Guides/Computer/Run Background Apps.md",
-    "Private/Teest.md",
-    "Public",
     "Public/Guides/Computer/Generate SSH Keys.md",
     "Public/Guides/Computer/Copy File to Clipboard.md",
     "Public/Guides/Computer/Arch Linux/Yay Package Manager.md",
     "Public/Guides/Computer/Arch Linux/Window Manager.md",
-    "Public/Guides/Computer/Arch Linux/Getting Started.md",
     "Public/Guides/Computer/Arch Linux/Screenshots.md",
-    "Public/Guides/Computer/Arch Linux/Install AppImages.md",
-    "Public/Guides/Computer/Arch Linux/Install Apps.md",
-    "Public/Guides/Computer/Arch Linux/Configs/bashrc.md",
-    "Public/Guides/Computer/Arch Linux/Configs/i3wm Config.md",
     "Public/Guides/Computer/Arch Linux/Manage Audio.md",
+    "Public/Guides/Computer/Arch Linux/Install Apps.md",
+    "Public/Guides/Computer/Arch Linux/Install AppImages.md",
+    "Public/Guides/Computer/Arch Linux/Getting Started.md",
+    "Public/Guides/Computer/Arch Linux/Configs/i3wm Config.md",
+    "Public/Guides/Computer/Arch Linux/Configs/bashrc.md",
+    "Private/Research/Mint on Fly.md",
+    "Private/Explorer",
+    "Private/Research",
+    "Public",
     "Public/Guides/Computer",
     "Public/Guides/Computer/Arch Linux/Configs",
     "Public/Guides/Computer/Arch Linux",

@@ -21,4 +21,5 @@ You can install Brave using `yay -S brave`, but when I did, it worked, but it to
 - `yay -S notion-app`
 - `yay -S spotify`
 - `yay -S visual-studio-code-bin`
+- File manager `sudo pacman -S nemo`
 - Obsidian (download `.AppImage` from their website)

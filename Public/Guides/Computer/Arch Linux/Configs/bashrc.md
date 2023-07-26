@@ -13,6 +13,7 @@ alias ls='ls --color=auto'
 alias grep='grep --color=auto'
 alias sound="alsamixer"
 alias obsidian="obsidian & disown"
+alias open="nemo"
 
 PS1='[\u@\h \W]\$ '
 
