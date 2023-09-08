@@ -22,7 +22,7 @@
 #### [[Generate SSH Keys]]
 #### [[Copy File to Clipboard]]
 #### [[Install AppImages]]
-### [[Run Background Apps]]
+### [[Resume]]
 
 
 
