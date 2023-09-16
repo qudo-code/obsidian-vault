@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "73b7afc9741afc65",
+        "id": "5d2a5ffa48926f2f",
         "type": "tabs",
         "children": [
           {
-            "id": "5585c97bbb44cf81",
+            "id": "0138530d895088e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Public/Guides/Computer/Arch Linux/Configs/bashrc.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Public/Guides/Computer/Arch Linux/Configs/bashrc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Public/Guides/Computer/Arch Linux/Configs/bashrc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Public/Guides/Computer/Arch Linux/Configs/bashrc.md"
+              }
             }
           },
           {
@@ -149,7 +157,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "5585c97bbb44cf81",
+  "active": "0138530d895088e0",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Public/Guides/Computer/Generate SSH Keys.md",
