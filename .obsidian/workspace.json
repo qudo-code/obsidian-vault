@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e52b3b6995f1e059",
+        "id": "1cf0d5cbbde07ba5",
         "type": "tabs",
         "children": [
           {
-            "id": "bb601a1b16aedd19",
+            "id": "39e26b6b63652d8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public/Guides/Computer/Arch Linux/GTK Dark Mode.md",
+                "file": "Public/Guides/Computer/Generate SSH Keys.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 299.5
   },
   "right": {
     "id": "3fbf0ede1be9fa69",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/Guides/Computer/Arch Linux/GTK Dark Mode.md",
+                "file": "Public/Guides/Computer/Generate SSH Keys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Public/Guides/Computer/Arch Linux/GTK Dark Mode.md",
+                "file": "Public/Guides/Computer/Generate SSH Keys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public/Guides/Computer/Arch Linux/GTK Dark Mode.md"
+                "file": "Public/Guides/Computer/Generate SSH Keys.md"
               }
             }
           },
@@ -157,39 +157,39 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "bb601a1b16aedd19",
+  "active": "39e26b6b63652d8e",
   "lastOpenFiles": [
-    "Public/Guides/Computer/Arch Linux/Install Apps.md",
-    "Public/Guides/Computer/Arch Linux/File Manager UI.md",
-    "Public/Guides/Computer/Arch Linux/GTK Dark Mode.md",
-    "Public/Guides/Computer/Arch Linux/Configs/i3wm Config.md",
-    "Public/Guides/Computer/Arch Linux/Configs/gtk.md",
-    "Public/Guides/Computer/Arch Linux/Configs/bashrc.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Excalidraw/Drawing 2023-08-31 21.15.28.excalidraw.md",
-    "Untitled.md",
-    "Excalidraw/Drawing 2023-08-31 21.14.17.excalidraw.md",
-    "Private/Super Secret.md",
-    "Private/Research/Mint on Fly.md",
-    "2023-07-31.md",
-    "Excalidraw/Drawing 2023-08-31 21.08.16.excalidraw.md",
-    "2023-08-31.md",
-    "Public/Guides/Computer/Arch Linux/Install AppImages.md",
-    "Excalidraw/Drawing 2023-08-01 19.23.57.excalidraw.md",
-    "Random/Untitled.md",
-    "Excalidraw",
-    "Random",
+    "Public/Guides/Computer/Copy File to Clipboard.md",
     "Public/Guides/Computer/Generate SSH Keys.md",
     "Public/Guides/Computer/Resume.md",
+    "2023-07-31.md",
+    "2023-08-31.md",
+    "Excalidraw/Drawing 2023-08-31 21.15.28.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-31 21.14.17.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-31 21.08.16.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-01 19.23.57.excalidraw.md",
+    "Private/Super Secret.md",
+    "Random/Untitled.md",
+    "Private/Research/Mint on Fly.md",
+    "Public/Guides/Computer/Arch Linux/Configs/bashrc.md",
+    "Public/Guides/Computer/Arch Linux/Configs/i3wm Config.md",
+    "Public/Guides/Computer/Arch Linux/Yay Package Manager.md",
+    "Public/Guides/Computer/Arch Linux/Window Manager.md",
+    "Public/Guides/Computer/Arch Linux/Screenshots.md",
+    "Public/Guides/Computer/Arch Linux/Manage Audio.md",
+    "Public/Guides/Computer/Arch Linux/Install Apps.md",
+    "Public/Guides/Computer/Arch Linux/Install AppImages.md",
+    "Public/Guides/Computer/Arch Linux/GTK Dark Mode.md",
+    "Public/Guides/Computer/Arch Linux/File Manager UI.md",
+    "Public/Guides/Computer/Arch Linux/Configs/gtk.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Excalidraw",
+    "Random",
     "Private/Tiplink",
     "Transactions.md",
     "My i3wm Config.md",
-    "Public/Guides/Computer/Arch Linux/Window Manager.md",
-    "Public/Guides/Computer/Arch Linux/Getting Started.md",
-    "Public/Guides/Computer/Copy File to Clipboard.md",
-    "Public/Guides/Computer/Arch Linux/Yay Package Manager.md",
-    "Public/Guides/Computer/Arch Linux/Screenshots.md",
     "Private/Explorer",
     "Private/Research",
     "Public",
