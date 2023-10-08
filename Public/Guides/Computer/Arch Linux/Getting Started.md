@@ -16,7 +16,7 @@
 ### [[Window Manager]]
 ### [[Manage Audio]]
 ### [[Screenshots]]
-### [[Install Apps]]
+### [[Installing Apps]]
 
 ## Tips n Snippets
 #### [[Generate SSH Keys]]
