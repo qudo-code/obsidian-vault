@@ -12,43 +12,45 @@
 ### Common Apps
 #### Browsers
 |App    |Install Command     |Notes|
-|:-----:|:-------------------|:---:|
+|:-----:|:-------------------|:----|
 |Brave  |`yay -S brave-bin`     |     |
 |Chrome |`yay -S google-chrome`  |launch with `google-chrome-stable` unless you add an alias|
 |Firefox|`sudo pacman -S firefox`|     |
 #### Communication
 |App        |Install Command             |Notes|
-|:---------:|:---------------------------|:---:|
+|:---------:|:---------------------------|:----|
 |Discord    |`sudo pacman -S discord`        |     |
 |Signal     |`sudo pacman -S signal-desktop`  |     |
 |Slack      |`yay -S slack-desktop`          |     |
 |Telegram   |`sudo pacman -S telegram-desktop`|     |
 |Thunderbird|`sudo pacman -S thunderbird`     |     |
 #### Dev/Util.
-|App    |Install Command           |Notes|
-|:-----:|:------------------------:|:---:|
-|FUSE   |`sudo pacman -S fuse2`        |
-|NordVPN|`yay -S nordvpn-bin`          |     |
-|Vim    |`sudo pacman -S vim`          |     |
-|VS Code|`yay -S visual-studio-code-bin`|     |
-|xclip  |`sudo pacman -S xclip`        |     |
+|App         |Install Command           |Notes|
+|:----------:|:------------------------:|:----|
+|Flameshot   |`sudo pacman -S flameshot`    |Bind to <kbd>Print Screen</kbd> key by adding `bindsym Pint exec flameshot gui` to `~/.config/i3/config`. Hit <kbd>Print Screen</kbd> to open tool. Select screenshot area. You can <kbd>ctrl</kbd>+<kbd>c</kbd> selection to clipboard.|
+|FUSE        |`sudo pacman -S fuse2`        |
+|NordVPN     |`yay -S nordvpn-bin`          |Execute in order `sudo systemctl enable nordvpnd`, `sudo systemctl start nordvpnd`, `sudo usermod -aG nordvpn $USER`, `reboot`, `systemctl status nordvpnd`, `sudo nordvpn status`|
+|Transmission|`yay -S transmission-cli transmission-gtk` (gtk is the gui package)|If you prefer gui, but isntalled both, you can add `` alias transmission=`transmission-gtk` `` to `~/.bashrc` or `~/.zshrc`
+|Vim         |`sudo pacman -S vim`          |     |
+|VS Code     |`yay -S visual-studio-code-bin`|     |
+|xclip       |`sudo pacman -S xclip`        |     |
 #### File Managers
 |App   |Install Command    |Notes|
-|:----:|:-----------------:|:---:|
+|:----:|:-----------------:|:----|
 |Nemo  |`sudo pacman -S nemo`  |     |
 |Thunar|`sudo pacman -S thunar`|     |
 #### Multimedia/Streaming
 |App     |Install Command        |Notes|
-|:------:|:---------------------:|:---:|
+|:------:|:---------------------:|:----|
 |Audacity|`sudo pacman -S audacity`  |     |
 |OBS     |`sudo pacman -S obs-studio`|     |
 |Spotify |`yay -S spotify`          |     |
 |Steam   |`sudo pacman -S steam`     |You must [[#Enabling pacman mirrorlist\|enable pacman mirrorlist and update]] before using install command. Reboot after installation.|
 |VLC     |`sudo pacman -S vlc`       |     |
 #### Notes
-| App | Install command | Notes |
-|:---:|:---------------:|:-:|
-|Notion|`yay -S notion-app`||
+|App     |Install command     | Notes                                 |
+|:------:|:------------------:|:--------------------------------------|
+|Notion  |`yay -S notion-app`    |                                       |
 |Obsidian|[[#Installing AppImages]]|use `.AppImage` from [Obsidian's website](https://obsidian.md/download)|
 
 ### Alternative Package Management
