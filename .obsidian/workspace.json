@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public/Guides/Computer/Arch Linux/Getting Started.md",
-                "mode": "preview",
+                "file": "Public/Guides/Computer/Arch Linux/Installing Apps.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/Guides/Computer/Arch Linux/Getting Started.md",
+                "file": "Public/Guides/Computer/Arch Linux/Installing Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Public/Guides/Computer/Arch Linux/Getting Started.md",
+                "file": "Public/Guides/Computer/Arch Linux/Installing Apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public/Guides/Computer/Arch Linux/Getting Started.md"
+                "file": "Public/Guides/Computer/Arch Linux/Installing Apps.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "7f55eef89b46575e",
   "lastOpenFiles": [
-    "Public/Guides/Computer/Arch Linux/Installing Apps.md",
     "Public/Guides/Computer/Arch Linux/Getting Started.md",
+    "Public/Guides/Computer/Arch Linux/Installing Apps.md",
     "Resume.md",
     "Install AppImages.md",
     "Public/Guides/Computer/Arch Linux/GTK Dark Mode.md",
